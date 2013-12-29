@@ -1,4 +1,8 @@
-public class main
+public class main extends JavaPlugin
 {
-    //null
+    @Override
+    public void onEnable()
+    {
+        
+    }
 }
